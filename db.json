@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "id": "Hello",
+      "password": "World",
+      "email": "hw@gmail.com"
+    },
+    {
+      "id": "Jamie",
+      "password": "Admin",
+      "email": "jamie@gmail.com"
+    }
+  ],
+  "stock": [
+    {
+      "id": "7ead",
+      "name": "pillow",
+      "value": "500"
+    },
+    {
+      "id": "f3d2",
+      "name": "niun",
+      "value": "151"
+    },
+    {
+      "id": "f1c8",
+      "name": "pl",
+      "value": "1851"
+    },
+    {
+      "id": "720e",
+      "name": "485",
+      "value": "58451"
+    },
+    {
+      "id": "0dc6",
+      "name": "ouhoj",
+      "value": "581"
+    },
+    {
+      "id": "faf6",
+      "name": "oiubhnujn",
+      "value": "458151"
+    },
+    {
+      "id": "a7a3",
+      "name": "loihnijk",
+      "value": "545"
+    },
+    {
+      "id": "e070",
+      "name": "liknjljkn",
+      "value": "54151"
+    },
+    {
+      "id": "c7c2",
+      "name": "sd",
+      "value": "451"
+    }
+  ]
+}
